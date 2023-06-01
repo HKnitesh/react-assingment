@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-assingment/static/css/main.607f1d9d.css",
+    "main.js": "/react-assingment/static/js/main.e7bef453.js",
+    "static/media/eye.svg": "/react-assingment/static/media/eye.9d9908a099390e361c753d86a89adeed.svg",
+    "index.html": "/react-assingment/index.html",
+    "main.607f1d9d.css.map": "/react-assingment/static/css/main.607f1d9d.css.map",
+    "main.e7bef453.js.map": "/react-assingment/static/js/main.e7bef453.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607f1d9d.css",
+    "static/js/main.e7bef453.js"
+  ]
+}
